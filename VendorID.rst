@@ -11,17 +11,17 @@ Number Only - Not For Membership
 
 番号のみ-メンバーシップではありません
 
-:Company Name:会社名
-:Contact Person:連絡窓口
-:Email Address:電子メールアドレス
-:Address 1:住所（1
-:Address 2:住所（2
-:City:市
-:State/Province:都道府県
-:Zip / Postal Code:郵便番号
-:Country:国
-:Telephone:電話
-:Fax:ファックス
+:Company Name: 会社名
+:Contact Person: 連絡窓口
+:Email Address: 電子メールアドレス
+:Address 1: 住所（1
+:Address 2: 住所（2
+:City: 市
+:State/Province: 都道府県
+:Zip / Postal Code: 郵便番号
+:Country: 国
+:Telephone: 電話
+:Fax: ファックス
 
 The company set forth above hereby applies for a USB Vendor ID Number and agrees to the following:
 The USB Implementers Forum is the authority which assigns and maintains all USB Vendor ID Numbers.
