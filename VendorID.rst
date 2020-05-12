@@ -3,7 +3,7 @@ VENDOR ID FORMFor Vendor ID 非公式日本語訳
 =================================================================================================
 
 原文:
- https://www.usb.org/sites/default/files/vid_only_form_070119.pdf
+https://www.usb.org/sites/default/files/vid_only_form_070119.pdf
 
 - Google翻訳を行なっただけです。
 
