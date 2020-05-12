@@ -4,9 +4,9 @@
 Universal Serial Bus Implementers Forum（USB-IF） 非公式日本語訳
 =================================================================================================
 
-原文: https://www.usb.org/sites/default/files/usb-if_member_agreement_080618_1.pdf
-
 - Google翻訳を行なっただけです。
+
+原文: https://www.usb.org/sites/default/files/usb-if_member_agreement_080618_1.pdf
 
 This Membership Agreement ("Agreement" or "Membership Agreement") is entered into by and between the above-named company (“ Company”) and USB-IF and becomes effective on the date signed by Company.
 C ompany agrees to abide by any and all policies or procedures governing members that may be set by USB-IF and any applicable provisions of the bylaws of USB-IF pertaining to members.

@@ -2,6 +2,10 @@
 Getting a Vendor ID
 =================================================================================================
 
+- Google翻訳を行なっただけです。
+
+原文: https://www.usb.org/getting-vendor-id
+
 If you are a new USB product developer looking to get a vendor ID for your company, there are two preferred options for doing this:
 
 あなたが会社のベンダーIDを取得したいと考えている新しいUSB製品開発者である場合、これを行うための2つの推奨オプションがあります。
