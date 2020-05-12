@@ -63,6 +63,7 @@ https://www.usb.org/sites/default/files/vendor_ids052019.pdf
 禁止番号 (なんとなく禁止する)
 
 ::
+
     0x0000
     0x1111
     0x2222
@@ -83,6 +84,7 @@ https://www.usb.org/sites/default/files/vendor_ids052019.pdf
 開発用番号　（販売せずパートナーのみで使用)
 
 ::
+
     0x1234
     0x5678
     0xABCD
@@ -92,6 +94,7 @@ https://www.usb.org/sites/default/files/vendor_ids052019.pdf
 AN利用配布用ID　(HIDドライバ)　4095台分
 
 ::
+
     0x1000
       |
     0x1FFF
@@ -99,11 +102,14 @@ AN利用配布用ID　(HIDドライバ)　4095台分
 AN利用配布用ID　(その他ドライバ)　　4095台分
 
 ::
+
     0x2000
       |
     0x2FFF
 
 その他配布用ID
+
+::
 
     0x3000
       |
